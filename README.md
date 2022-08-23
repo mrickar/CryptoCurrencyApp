@@ -1,6 +1,7 @@
 # CryptoCurrencyApp
 
 This is one of Kotlin Compose projects that I developped during my internship.
+I used clean architecture with MVVM pattern.
 It shows cryptocurrencies with some informations from the data provided from API.
 
 ![image](https://user-images.githubusercontent.com/61471068/186092559-8185055a-a9c8-44ab-9a44-c3006e2bf902.png)
